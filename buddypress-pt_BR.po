@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress trunk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-01-04 12:28-0300\n"
+"PO-Revision-Date: 2012-01-04 12:37-0300\n"
 "Last-Translator: Vinicius Massuchetto <viniciusmassuchetto@gmail.com>\n"
 "Language-Team: Comunidade WordPress-BR <contato@wp-brasil.org>\n"
 "Language: \n"
@@ -2031,7 +2031,7 @@ msgstr "Você foi banido deste grupo."
 
 #: bp-themes/bp-default/members/single/settings/general.php:56
 msgid "Current Password <span>(required to update email or change current password)</span>"
-msgstr "Alterar senha <span>(deixe em branco para não alterar)</span>"
+msgstr "Senha Atual <span>(necessário para atualizar o e-mail ou mudar a senha)</span>"
 
 #: bp-themes/bp-default/members/single/settings/general.php:57
 msgid "Password Lost and Found"
@@ -3474,7 +3474,7 @@ msgstr "Nenhum grupo correspondeu ao filtro atual."
 #: bp-messages/bp-messages-loader.php:181
 #: bp-messages/bp-messages-functions.php:237
 msgid "Inbox"
-msgstr "Caixa de entrada"
+msgstr "Caixa de Entrada"
 
 #: bp-messages/bp-messages-loader.php:133
 #: bp-messages/bp-messages-loader.php:212
@@ -4697,11 +4697,11 @@ msgstr "Obrigatório"
 
 #: bp-xprofile/bp-xprofile-classes.php:742
 msgid "Text Box"
-msgstr "Caixa de texto"
+msgstr "Caixa de Texto"
 
 #: bp-xprofile/bp-xprofile-classes.php:743
 msgid "Multi-line Text Box"
-msgstr "Caixa de texto de várias linhas"
+msgstr "Caixa de Texto com Várias Linhas"
 
 #: bp-xprofile/bp-xprofile-classes.php:744
 msgid "Date Selector"
