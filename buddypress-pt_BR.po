@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress trunk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-01-04 11:58-0300\n"
+"PO-Revision-Date: 2012-01-04 12:28-0300\n"
 "Last-Translator: Vinicius Massuchetto <viniciusmassuchetto@gmail.com>\n"
 "Language-Team: Comunidade WordPress-BR <contato@wp-brasil.org>\n"
 "Language: \n"
@@ -156,7 +156,7 @@ msgstr ""
 
 #: bp-core/bp-core-admin.php:267
 msgid "Avatar Uploads"
-msgstr "Upload de fotos"
+msgstr "Upload de Fotos"
 
 #: bp-core/admin/bp-core-settings.php:387
 msgid "User base"
@@ -1208,7 +1208,7 @@ msgstr "Sem acesso a esta atividade."
 #: bp-groups/bp-groups-adminbar.php:64
 #: bp-members/bp-members-adminbar.php:107
 msgid "Edit Avatar"
-msgstr "Editar o avatar de %s"
+msgstr "Editar Foto"
 
 #: bp-groups/bp-groups-adminbar.php:55
 msgid "Edit Settings"
@@ -2095,11 +2095,11 @@ msgstr "Uma lista dinâmica de usuários novos, ativos e populares"
 
 #: bp-core/bp-core-widgets.php:201
 msgid "Who's Online"
-msgstr "Avatares de quem está online"
+msgstr "Membros Online"
 
 #: bp-core/bp-core-widgets.php:157
 msgid "Avatars of users who are currently online"
-msgstr "Não há nenhum usuário online no momento"
+msgstr "Usuários Online"
 
 #: bp-activity/bp-activity-functions.php:158
 msgid "%1$s mentioned you in an activity update"
@@ -2944,7 +2944,7 @@ msgstr "Convites"
 #: bp-groups/bp-groups-buddybar.php:25
 #: bp-groups/bp-groups-template.php:2334
 msgid "Group Avatar"
-msgstr "Avatar do grupo"
+msgstr "Foto do Grupo"
 
 #: bp-groups/bp-groups-loader.php:330
 #: bp-groups/bp-groups-template.php:1577
@@ -3089,20 +3089,20 @@ msgstr "As configurações do grupo foram atualizadas com sucesso."
 #: bp-groups/bp-groups-screens.php:568
 #: bp-xprofile/bp-xprofile-actions.php:36
 msgid "Your avatar was deleted successfully!"
-msgstr "Seu avatar foi excluído com sucesso!"
+msgstr "Sua foto foi excluída com sucesso!"
 
 #: bp-groups/bp-groups-screens.php:570
 #: bp-xprofile/bp-xprofile-actions.php:38
 msgid "There was a problem deleting that avatar, please try again."
-msgstr "Ocorreu um problema ao excluir o avatar. Tente novamente."
+msgstr "Ocorreu um problema ao excluir sua foto. Por favor tente novamente."
 
 #: bp-groups/bp-groups-screens.php:598
 msgid "There was a problem cropping the avatar, please try uploading it again"
-msgstr "Ocorreu um problema ao recortar o avatar, tente fazer o upload novamente."
+msgstr "Ocorreu um problema ao recortar sua foto, tente fazer o upload novamente."
 
 #: bp-groups/bp-groups-screens.php:600
 msgid "The new group avatar was uploaded successfully!"
-msgstr "O novo avatar do grupo foi enviado com sucesso!"
+msgstr "A nova foto do grupo foi enviada com sucesso!"
 
 #: bp-groups/bp-groups-screens.php:635
 msgid "There was an error when promoting that user, please try again"
@@ -3191,11 +3191,11 @@ msgstr "Ocorreu um erro ao salvar os detalhes do grupo, tente novamente."
 
 #: bp-groups/bp-groups-actions.php:189
 msgid "There was an error saving the group avatar, please try uploading again."
-msgstr "Ocorreu um erro ao salvar o avatar do grupo, tente fazer o upload novamente."
+msgstr "Ocorreu um erro ao salvar a foto do grupo, tente fazer o upload novamente."
 
 #: bp-groups/bp-groups-actions.php:191
 msgid "The group avatar was uploaded successfully!"
-msgstr "O avatar do grupo foi enviado com sucesso!"
+msgstr "A foto do grupo foi enviada com sucesso!"
 
 #: bp-groups/bp-groups-actions.php:215
 #: bp-groups/bp-groups-actions.php:222
@@ -3330,7 +3330,7 @@ msgstr "Grupo"
 
 #: bp-groups/bp-groups-template.php:2161
 msgid "Group avatar"
-msgstr "Avatar do grupo"
+msgstr "Foto do grupo"
 
 #: bp-groups/bp-groups-template.php:431
 msgid "not yet active"
@@ -3456,7 +3456,7 @@ msgstr "Moderador de"
 
 #: bp-groups/bp-groups-template.php:2338
 msgid "No Group Avatar"
-msgstr "Nenhum avatar do grupo"
+msgstr "Nenhuma Foto"
 
 #: bp-groups/bp-groups-widgets.php:90
 msgid "There are no groups to display."
@@ -4088,23 +4088,23 @@ msgstr "Enviar Imagem"
 
 #: bp-themes/bp-default/groups/create.php:164
 msgid "To skip the avatar upload process, hit the \"Next Step\" button."
-msgstr "Para ignorar o processo de envio do avatar, clique no botão \"Próxima etapa\"."
+msgstr "Para ignorar o processo de envio da foto, clique no botão \"Próxima Etapa\"."
 
 #: bp-themes/bp-default/groups/create.php:171
 msgid "Crop Group Avatar"
-msgstr "Recortar o avatar do grupo"
+msgstr "Recortar Foto do Grupo"
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:33
 #: bp-themes/bp-default/groups/single/admin.php:151
 #: bp-themes/bp-default/groups/create.php:173
 msgid "Avatar to crop"
-msgstr "Avatar a ser recortado"
+msgstr "Foto a ser recortada"
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:36
 #: bp-themes/bp-default/groups/single/admin.php:154
 #: bp-themes/bp-default/groups/create.php:176
 msgid "Avatar preview"
-msgstr "Visualização do avatar"
+msgstr "Prévia da foto"
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:39
 #: bp-themes/bp-default/groups/single/admin.php:157
@@ -4163,16 +4163,16 @@ msgstr "Notificar os usuários por e-mail em relação à estas alterações?"
 
 #: bp-themes/bp-default/groups/single/admin.php:137
 msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
-msgstr "Se você quiser remover o avatar existente sem enviar um novo, use o botão excluir avatar."
+msgstr "Se você quiser remover a foto existente sem enviar uma nova, use o botão \"Excluir Foto\"."
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:24
 #: bp-themes/bp-default/groups/single/admin.php:139
 msgid "Delete Avatar"
-msgstr "Excluir avatar"
+msgstr "Excluir Foto"
 
 #: bp-themes/bp-default/groups/single/admin.php:149
 msgid "Crop Avatar"
-msgstr "Recortar avatar"
+msgstr "Recortar Foto"
 
 #: bp-themes/bp-default/groups/single/admin.php:177
 msgid "Administrators"
@@ -4386,7 +4386,7 @@ msgstr "Enviar resposta"
 #: bp-xprofile/bp-xprofile-loader.php:201
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:1
 msgid "Change Avatar"
-msgstr "Mudar avatar"
+msgstr "Mudar Foto"
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:7
 msgid "Your avatar will be used on your profile and throughout the site. If there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your account email we will use that, or you can upload an image from your computer."
@@ -4398,19 +4398,19 @@ msgstr "Clique abaixo para selecionar uma foto no formato JPG, GIF ou PNG de seu
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:23
 msgid "If you'd like to delete your current avatar but not upload a new one, please use the delete avatar button."
-msgstr "Para excluir o avatar atual sem enviar um novo, use o botão excluir avatar."
+msgstr "Para excluir a foto sem enviar uma nova, use o botão \"Excluir Foto\"."
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:24
 msgid "Delete My Avatar"
-msgstr "Excluir meu avatar"
+msgstr "Excluir Minha Foto"
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:31
 msgid "Crop Your New Avatar"
-msgstr "Recortar seu novo avatar"
+msgstr "Recorte Sua Nova Foto"
 
 #: bp-themes/bp-default/members/single/profile/change-avatar.php:55
 msgid "Your avatar will be used on your profile and throughout the site. To change your avatar, please create an account with <a href=\"http://gravatar.com\">Gravatar</a> using the same email address as you used to register with this site."
-msgstr "O seu avatar será usado no seu perfil e em todo site. Para mudar seu avatar, crie uma conta em <a href=\"http://gravatar.com\">Gravatar</a> usando o mesmo email que você usou para se registrar neste site."
+msgstr "Sua foto será usada para seu perfil e em todo site. Para mudá-la, crie uma conta em <a href=\"http://gravatar.com\">Gravatar</a> usando o mesmo email que você usou para se registrar neste site."
 
 #: bp-themes/bp-default/members/single/profile/edit.php:10
 msgid "Editing '%s' Profile Group"
@@ -4522,7 +4522,7 @@ msgstr "Editar o perfil de %s"
 
 #: bp-members/bp-members-buddybar.php:118
 msgid "Edit %s's Avatar"
-msgstr "Editar o avatar de %s"
+msgstr "Editar Foto de %s"
 
 #: bp-members/bp-members-adminbar.php:116
 #: bp-members/bp-members-buddybar.php:122
@@ -4550,7 +4550,7 @@ msgstr "Mudanças salvas."
 
 #: bp-xprofile/bp-xprofile-screens.php:167
 msgid "Your new avatar was uploaded successfully!"
-msgstr "Seu novo avatar foi enviado com sucesso!"
+msgstr "Sua nova foto foi enviada com sucesso!"
 
 #: bp-xprofile/bp-xprofile-activity.php:20
 msgid "New member registered"
@@ -4753,7 +4753,7 @@ msgstr "Caixas de seleção precisam de ao menos uma opção. Adicione as opçõ
 
 #: bp-xprofile/bp-xprofile-template.php:763
 msgid "Avatar uploads are currently disabled. Why not use a <a href=\"http://gravatar.com\" target=\"_blank\">gravatar</a> instead?"
-msgstr "No momento, o envio de avatar está desativado. Por que você não usa um <a href=\"http://gravatar.com\" target=\"_blank\">gravatar</a>?"
+msgstr "No momento, o envio de fotos está desativado. Por que você não usa um <a href=\"http://gravatar.com\" target=\"_blank\">gravatar</a>?"
 
 #: bp-xprofile/bp-xprofile-template.php:772
 msgid "Profile not recently updated"
@@ -5169,7 +5169,7 @@ msgstr "Este campo é obrigatório"
 
 #: bp-xprofile/bp-xprofile-screens.php:165
 msgid "There was a problem cropping your avatar, please try uploading it again"
-msgstr "Ocorreu um problema ao cortar seu avatar, tente fazer o upload novamente."
+msgstr "Ocorreu um problema ao recortar sua foto, tente fazer o upload novamente."
 
 #: bp-members/bp-members-signup.php:391
 msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
@@ -5261,7 +5261,7 @@ msgstr "Blogs"
 
 #: bp-members/bp-members-template.php:1100
 msgid "Your Avatar"
-msgstr "Seu avatar"
+msgstr "Sua Foto"
 
 #: bp-activity/bp-activity-template.php:2361
 msgid "a user"
@@ -5303,7 +5303,7 @@ msgstr "Máximo de membros para mostrar:"
 
 #: bp-core/bp-core-widgets.php:158
 msgid "Who's Online Avatars"
-msgstr "Avatares de quem está online"
+msgstr "Fotos de Quem Está Online"
 
 #: bp-core/bp-core-widgets.php:182
 msgid "There are no users currently online"
@@ -5311,7 +5311,7 @@ msgstr "Não há nenhum usuário online no momento"
 
 #: bp-core/bp-core-widgets.php:227
 msgid "Recently Active Member Avatars"
-msgstr "Avatares de quem esteve ativo recentemente"
+msgstr "Fotos de Quem Esteve Ativo Recentemente"
 
 #: bp-core/bp-core-widgets.php:251
 msgid "There are no recently active members"
@@ -5407,7 +5407,7 @@ msgstr "%s respondeu a um de seus comentários"
 #: bp-groups/bp-groups-loader.php:224
 #: bp-groups/bp-groups-template.php:1280
 msgid "Avatar"
-msgstr "Avatar"
+msgstr "Foto"
 
 #: bp-themes/bp-default/activity/entry.php:37
 msgid "View Thread / Permalink"
