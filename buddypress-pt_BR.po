@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress trunk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-01-04 12:37-0300\n"
+"PO-Revision-Date: 2012-01-04 12:59-0300\n"
 "Last-Translator: Vinicius Massuchetto <viniciusmassuchetto@gmail.com>\n"
 "Language-Team: Comunidade WordPress-BR <contato@wp-brasil.org>\n"
 "Language: \n"
@@ -236,7 +236,7 @@ msgstr ""
 
 #: bp-core/admin/bp-core-settings.php:261
 msgid "<strong>For more information:</strong>"
-msgstr "<strong>Para mais informação:</strong>"
+msgstr "<strong>Para mais informações:</strong>"
 
 #: bp-core/admin/bp-core-settings.php:21
 msgid "Main community settings for enabling features and setting time limits"
@@ -568,7 +568,7 @@ msgstr "Resultados da busca por &#8220;%s&#8221;"
 #: bp-activity/bp-activity-admin.php:199
 #: bp-activity/bp-activity-admin.php:244
 msgid "For more information:"
-msgstr "Para mais informações"
+msgstr "Para mais informações:"
 
 #: bp-activity/bp-activity-admin.php:201
 #: bp-activity/bp-activity-admin.php:245
@@ -614,7 +614,7 @@ msgstr "Nós observamos que seu site usa o antigo Admin Bar de versões anterior
 
 #: bp-core/admin/bp-core-update.php:812
 msgid "If you'd prefer to not switch to the WordPress Admin bar just yet, check this box. Don't worry, you can change your mind later."
-msgstr "Se você preferir não mudar para o Admin Bar WordPress, marque esta caixa. Não se preocupe, você pode mudar de idéia mais tarde."
+msgstr "Se você preferir não mudar para o Admin Bar do WordPress, marque esta caixa. Não se preocupe, você pode mudar de ideia mais tarde."
 
 #: bp-groups/bp-groups-actions.php:250
 #: bp-groups/bp-groups-screens.php:656
@@ -1810,7 +1810,7 @@ msgstr "Gerenciar Convites"
 
 #: bp-forums/bp-forums-loader.php:145
 msgid "Replied To"
-msgstr "Respondido Para"
+msgstr "Tópicos Respondidos"
 
 #: bp-themes/bp-default/groups/single/forum/topic.php:9
 msgid "New Reply"
@@ -3848,7 +3848,7 @@ msgstr "Ordenar por:"
 #: bp-themes/bp-default/groups/index.php:59
 #: bp-themes/bp-default/groups/single/forum.php:38
 msgid "Last Active"
-msgstr "Último ativo"
+msgstr "Atividade Recente"
 
 #: bp-themes/bp-default/members/index.php:62
 #: bp-themes/bp-default/members/single/friends.php:24
@@ -3857,7 +3857,7 @@ msgstr "Último ativo"
 #: bp-themes/bp-default/blogs/index.php:59
 #: bp-themes/bp-default/groups/index.php:62
 msgid "Alphabetical"
-msgstr "Em ordem alfabética"
+msgstr "Ordem alfabética"
 
 #: bp-themes/bp-default/comments.php:3
 msgid "Password Protected"
@@ -3939,7 +3939,7 @@ msgstr "Maioria dos posts"
 #: bp-themes/bp-default/forums/index.php:64
 #: bp-themes/bp-default/groups/single/forum.php:40
 msgid "Unreplied"
-msgstr "Não respondidos"
+msgstr "Não Respondidos"
 
 #: bp-themes/bp-default/functions.php:485
 msgid "Your comment is awaiting moderation."
@@ -4310,7 +4310,7 @@ msgstr "Diretório de membros"
 #: bp-themes/bp-default/members/index.php:58
 #: bp-themes/bp-default/members/single/friends.php:23
 msgid "Newest Registered"
-msgstr "Último registrado "
+msgstr "Ordem de Registro"
 
 #: bp-themes/bp-default/members/members-loop.php:108
 msgid "Sorry, no members were found."
