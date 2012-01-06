@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress trunk\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-01-04 12:59-0300\n"
+"PO-Revision-Date: 2012-01-06 09:12-0300\n"
 "Last-Translator: Vinicius Massuchetto <viniciusmassuchetto@gmail.com>\n"
 "Language-Team: Comunidade WordPress-BR <contato@wp-brasil.org>\n"
 "Language: \n"
@@ -200,7 +200,7 @@ msgstr "Todos os membros podem fazer upload de fotos"
 
 #: bp-core/admin/bp-core-settings.php:85
 msgid "Allow members to delete their own accounts"
-msgstr ""
+msgstr "Permitir aos usuários deletar suas próprias contas"
 
 #: bp-core/admin/bp-core-settings.php:356
 msgid "Attachments"
@@ -208,7 +208,7 @@ msgstr "Anexos"
 
 #: bp-core/admin/bp-core-settings.php:360
 msgid "Tag base"
-msgstr ""
+msgstr "Tags"
 
 #: bp-core/admin/bp-core-settings.php:390
 msgid "View base"
@@ -232,7 +232,7 @@ msgstr "Criação de Grupo"
 
 #: bp-core/admin/bp-core-settings.php:147
 msgid "Settings for the Groups component"
-msgstr ""
+msgstr "Configurações de Grupo"
 
 #: bp-core/admin/bp-core-settings.php:261
 msgid "<strong>For more information:</strong>"
@@ -261,7 +261,7 @@ msgstr ""
 #: bp-activity/bp-activity-admin.php:206
 msgctxt "activity admin edit screen"
 msgid "Primary Item/Secondary Item"
-msgstr ""
+msgstr "Item Principal/Secundário"
 
 #: bp-activity/bp-activity-template.php:1008
 msgid "Group logo"
@@ -273,7 +273,7 @@ msgstr "Autor"
 
 #: bp-activity/bp-activity-admin.php:189
 msgid "Item, Link, Type"
-msgstr ""
+msgstr "Item, Link, Tipo"
 
 #: bp-activity/bp-activity-admin.php:194
 msgid "For information about when and how BuddyPress uses all of these settings, see the Managing Activity link in the panel to the side."
@@ -314,7 +314,7 @@ msgstr "Foto de %s"
 
 #: bp-activity/bp-activity-admin.php:739
 msgid "Primary Item ID"
-msgstr ""
+msgstr "ID Principal"
 
 #: bp-activity/bp-activity-admin.php:209
 msgctxt "activity admin edit screen"
@@ -495,7 +495,7 @@ msgstr "%1$s - Meus grupos - Atividade Pública"
 
 #: bp-activity/feeds/bp-activity-mentions-feed.php:32
 msgid "%s - Mentions"
-msgstr "%s - Menções"
+msgstr "%s - Citações"
 
 #: bp-activity/feeds/bp-activity-favorites-feed.php:31
 msgid "%s - Favorite Activity"
@@ -656,7 +656,7 @@ msgstr "Instalado"
 #: bp-forums/bp-forums-admin.php:54
 #: bp-forums/bp-forums-admin.php:171
 msgid "Give each individual group its own discussion forum. Choose this if you'd like to keep your members' conversations separated into distinct areas."
-msgstr ""
+msgstr "Dar a cada grupo individual o seu próprio fórum de discussão. Escolha esta opção se você quer manter a discussão entre os seus membros separadas em áreas distintas."
 
 #: bp-forums/bp-forums-admin.php:61
 #: bp-forums/bp-forums-admin.php:79
@@ -668,17 +668,17 @@ msgstr "Fluxo de atividade"
 #: bp-forums/bp-forums-admin.php:83
 #: bp-forums/bp-forums-admin.php:201
 msgid "Install Site Wide Forums"
-msgstr "Posts recentes em todo site"
+msgstr "Instalar Fórum Para o Site Todo"
 
 #: bp-forums/bp-forums-admin.php:78
 #: bp-forums/bp-forums-admin.php:196
 msgid "Forum Plugins Available"
-msgstr ""
+msgstr "Plugins de Fórum Disponíveis"
 
 #: bp-forums/bp-forums-admin.php:52
 #: bp-forums/bp-forums-admin.php:169
 msgid "Forums for Groups"
-msgstr "Grupos em destaque"
+msgstr "Fóruns para Grupos"
 
 #: bp-forums/bp-forums-admin.php:60
 #: bp-forums/bp-forums-admin.php:177
@@ -702,12 +702,12 @@ msgstr "Desinstalar Fóruns dos Grupos"
 #: bp-forums/bp-forums-admin.php:73
 #: bp-forums/bp-forums-admin.php:191
 msgid "You may activate both Group and Site Wide forums, but this may create a poor experience for your members."
-msgstr ""
+msgstr "Você pode ativar esta modalidade também com os grupos, mas isto dará uma impressão esquisita de organização do site."
 
 #: bp-forums/bp-forums-admin.php:72
 #: bp-forums/bp-forums-admin.php:190
 msgid "Your site will have central forums that are not isolated to any specific group. Choose this if you'd like to have a central forum area for your members."
-msgstr ""
+msgstr "O seu site terá um fórum central que não é isolado em nenhum grupo específico. Escolha isto se você quer ter uma área de fóruns centralizada para os seus membros."
 
 #: bp-forums/bp-forums-admin.php:77
 #: bp-forums/bp-forums-admin.php:195
@@ -725,11 +725,11 @@ msgstr "Você pode usar uma instalação existente do bbPress."
 
 #: bp-core/admin/bp-core-update.php:352
 msgid "Enable Site Tracking?"
-msgstr ""
+msgstr "Habilitar o Rastreamento do Site?"
 
 #: bp-core/admin/bp-core-update.php:366
 msgid "Select a WordPress page for the Sites directory."
-msgstr ""
+msgstr "Selecione uma página do WordPress para a listagem de Blogs."
 
 #: bp-core/bp-core-filters.php:191
 msgid ""
@@ -756,11 +756,11 @@ msgstr ""
 #: bp-members/bp-members-template.php:583
 msgctxt "member latest update in member directory"
 msgid "- &quot;%s &quot;"
-msgstr ""
+msgstr "- &quot;%s &quot;"
 
 #: bp-core/admin/bp-core-functions.php:314
 msgid "Each BuddyPress Component needs its own WordPress page. The following WordPress Pages have more than one component associated with them: %2$s. <a href=\"%1$s\" class=\"button-secondary\">Repair</a>"
-msgstr ""
+msgstr "Cada componente do BuddyPress precisa de sua própria página do WordPress. As seguintes páginas possuem mais de um componente associado com elas: %2$s. <a href=\"%1$s\" class=\"button-secondary\">Consertar Isso</a>"
 
 #: bp-themes/bp-default/sidebar.php:37
 msgid "Please <a href=\"%s\" title=\"Create an account\">create an account</a> to get started."
@@ -768,15 +768,15 @@ msgstr "Você também pode <a href=\"%s\" title=\"Criar uma conta\">criar uma co
 
 #: bp-activity/bp-activity-filters.php:325
 msgid "&hellip;"
-msgstr ""
+msgstr "&hellip;"
 
 #: bp-core/bp-core-template.php:392
 msgid " [&hellip;]"
-msgstr ""
+msgstr " [&hellip;]"
 
 #: bp-core/admin/bp-core-update.php:537
 msgid "Displays a directory of public forum topics."
-msgstr ""
+msgstr "Mostra uma listagem de tópicos nos fóruns."
 
 #: bp-core/admin/bp-core-update.php:347
 msgid "Would you like to enable site tracking, which tracks blog posts and comments from across your network?"
@@ -784,31 +784,31 @@ msgstr ""
 
 #: bp-core/admin/bp-core-components.php:94
 msgid "Make BuddyPress aware of new posts and new comments from your site."
-msgstr ""
+msgstr "Fazer com que o BuddyPress saiba de novos posts e comentários do seu site."
 
 #: bp-core/admin/bp-core-components.php:99
 msgid "Make BuddyPress aware of new sites, new posts and new comments from across your entire network."
-msgstr ""
+msgstr "Fazer com que o BuddyPress saiba de novos sites, posts e comentários de toda a sua rede."
 
 #: bp-core/admin/bp-core-update.php:556
 msgid "Displays a directory of the sites in your network."
-msgstr ""
+msgstr "Mostrar uma listagem de sites da sua rede."
 
 #: bp-core/admin/bp-core-components.php:66
 msgid "Customize your community with fully editable profile fields that allow your users to describe themselves."
-msgstr ""
+msgstr "Personalizar sua comunidade com campos de perfil totalmente configuráveis, permitindo que os usuários se descrevam."
 
 #: bp-core/admin/bp-core-components.php:86
 msgid "Groups allow your users to organize themselves into specific public, private or hidden sections with separate activity streams and member listings."
-msgstr ""
+msgstr "Os grupos permitem a seus membros se organizarem em uma área específica que pode ser pública, privada ou escondida, com listagem de membros e atividades."
 
 #: bp-core/admin/bp-core-components.php:78
 msgid "Allow your users to talk to each other directly and in private. Not just limited to one-on-one discussions, messages can be sent between any number of members."
-msgstr ""
+msgstr "Permitir aos usuários conversar uns com os outros através de mensagens. Isto não limita-se somente a discussões entre duas pessoas, pois mensagens podem ser enviadas a vários membros de uma só vez."
 
 #: bp-core/admin/bp-core-components.php:90
 msgid "Full-powered discussion forums built directly into groups allow for more conventional in-depth conversations. NOTE: This will require an extra (but easy) setup step."
-msgstr ""
+msgstr "Fóruns de discussão completos construídos diretamente nos grupos oferecem uma maneira convencional de organizar as discussões. ATENÇÃO: Isto vai precisar de uma configuração extra e fácil."
 
 #: bp-activity/bp-activity-template.php:170
 msgctxt "Activity pagination previous text"
@@ -884,7 +884,7 @@ msgstr "&larr;"
 
 #: bp-core/admin/bp-core-slugs.php:81
 msgid "Associate a WordPress Page with each BuddyPress component directory."
-msgstr ""
+msgstr "Associar uma Página do WordPress para cada componente do BuddyPress."
 
 #: bp-themes/bp-default/index.php:27
 msgctxt "Sticky post"
@@ -918,7 +918,7 @@ msgstr "Iniciado por %1$s"
 
 #: bp-blogs/bp-blogs-widgets.php:25
 msgid "Recent Networkwide Posts"
-msgstr "Posts recentes em todo site"
+msgstr "Posts Recentes em Todo Site"
 
 #: bp-themes/bp-default/groups/single/forum/topic.php:81
 msgid "%1$s said %2$s:"
@@ -934,7 +934,7 @@ msgstr "<a href=\"%1$s\">%2$s</a> respondeu <a href=\"%3$s\" class=\"activity-ti
 
 #: bp-activity/bp-activity-loader.php:230
 msgid "Mentions <span class=\"count\">%s</span>"
-msgstr "Menções <span class=\"count\">%d</span>"
+msgstr "Citações <span class=\"count\">%d</span>"
 
 #: bp-messages/bp-messages-loader.php:178
 msgid "Inbox <span class=\"count\">%s</span>"
@@ -1014,15 +1014,15 @@ msgstr "agora"
 
 #: bp-core/admin/bp-core-update.php:233
 msgid "Save &amp; Next"
-msgstr ""
+msgstr "Salvar &amp; Continuar"
 
 #: bp-core/admin/bp-core-update.php:227
 msgid "Finish &amp; Activate"
-msgstr ""
+msgstr "Finalizar &amp; Ativar"
 
 #: bp-core/admin/bp-core-slugs.php:138
 msgid "Associate WordPress Pages with the following BuddyPress Registration pages."
-msgstr ""
+msgstr "Associar Páginas do WordPress com as seguintes páginas de registro do BuddyPress."
 
 #: bp-groups/bp-groups-loader.php:354
 msgid "Members <span>%s</span>"
@@ -1081,7 +1081,7 @@ msgstr "Comentários <span>%d</span>"
 
 #: bp-core/admin/bp-core-functions.php:289
 msgid "The following active BuddyPress Components do not have associated WordPress Pages: %2$s. <a href=\"%1$s\" class=\"button-secondary\">Repair</a>"
-msgstr ""
+msgstr "Os seguintes componentes não possuem associação com páginas do WordPress: %2$s. <a href=\"%1$s\" class=\"button-secondary\">Consertar Isso</a>"
 
 #: bp-friends/bp-friends-loader.php:95
 msgid "Friends <span>%d</span>"
@@ -1171,7 +1171,7 @@ msgstr "Temas disponíveis"
 
 #: bp-core/admin/bp-core-components.php:128
 msgid "Everything in a BuddyPress community revolves around its members."
-msgstr ""
+msgstr "Tudo em uma comunidade do BuddyPress acontece em torno de seus membros."
 
 #: bp-core/admin/bp-core-components.php:127
 msgid "Community Members"
@@ -1179,7 +1179,7 @@ msgstr "Maioria dos membros"
 
 #: bp-core/admin/bp-core-components.php:124
 msgid "It&#8216;s what makes <del>time travel</del> BuddyPress possible!"
-msgstr ""
+msgstr "O que torna <del>a viagem no tempo</del> o BuddyPress possível!"
 
 #: bp-blogs/bp-blogs-loader.php:107
 msgid "Sites <span>%d</span>"
@@ -1403,7 +1403,7 @@ msgstr "Membro aleatório"
 
 #: bp-core/admin/bp-core-update.php:358
 msgid "Track new sites, new posts and new comments across your entire network."
-msgstr ""
+msgstr "Rastreia novos sites, posts e comentários por toda a sua rede."
 
 #: bp-blogs/bp-blogs-template.php:451
 msgid "Site Domain:"
@@ -1451,15 +1451,15 @@ msgstr[1] "%d grupos"
 
 #: bp-core/admin/bp-core-update.php:778
 msgid "Don't change my current theme"
-msgstr ""
+msgstr "Não mudar o meu tema atual"
 
 #: bp-core/admin/bp-core-update.php:748
 msgid "Manually update current theme"
-msgstr ""
+msgstr "Atualizar o tema atual manualmente"
 
 #: bp-core/admin/bp-core-update.php:758
 msgid "Install BuddyPress Template Pack"
-msgstr ""
+msgstr "Instalar o BuddyPress Template Pack"
 
 #: bp-core/admin/bp-core-update.php:732
 msgid "Use this theme"
@@ -1471,7 +1471,7 @@ msgstr "Um tema para o BuddyPress"
 
 #: bp-core/admin/bp-core-update.php:718
 msgid "Yes, please!"
-msgstr ""
+msgstr "Sim, por favor!"
 
 #: bp-core/admin/bp-core-update.php:717
 msgid "This is the best choice if you do not have an existing WordPress theme, or want to start using BuddyPress immediately."
@@ -1487,7 +1487,7 @@ msgstr ""
 
 #: bp-core/admin/bp-core-update.php:725
 msgid "Other themes"
-msgstr ""
+msgstr "Outros temas"
 
 #: bp-core/admin/bp-core-update.php:754
 msgid "The BuddyPress Template Pack plugin will guide you through the process of manually upgrading your existing WordPress theme. This usually involves following the step-by-step instructions and copying the BuddyPress template files into your theme. This option requires a working knowledge of CSS and HTML, as you will need to tweak the new templates to match your existing theme."
@@ -1532,7 +1532,7 @@ msgstr "Novos Grupos"
 #: bp-themes/bp-default/activity/index.php:96
 #: bp-themes/bp-default/groups/single/activity.php:10
 msgid "Everything"
-msgstr ""
+msgstr "Tudo"
 
 #: bp-themes/bp-default/members/single/activity.php:21
 #: bp-themes/bp-default/activity/index.php:97
@@ -1625,7 +1625,7 @@ msgstr "Você não tem permissão para escrever novos tópicos."
 
 #: bp-xprofile/bp-xprofile-activity.php:126
 msgid "%s changed their profile picture"
-msgstr ""
+msgstr "%s mudou sua foto"
 
 #: bp-core/admin/bp-core-update.php:293
 msgid "Before you can continue using BuddyPress, a few minor adjustments need to be made. These changes are not destructive and will not remove or change any existing settings."
@@ -1641,11 +1641,11 @@ msgstr "Sua senha atual está incorreta."
 
 #: bp-themes/bp-default/attachment.php:40
 msgid "Full size is %s pixels"
-msgstr ""
+msgstr "O tamanho é de %s pixels"
 
 #: bp-themes/bp-default/attachment.php:43
 msgid "Link to full size image"
-msgstr ""
+msgstr "Link para a imagem completa"
 
 #: bp-themes/bp-default/index.php:24
 #: bp-themes/bp-default/attachment.php:18
@@ -1672,11 +1672,11 @@ msgstr "Home"
 
 #: bp-core/admin/bp-core-functions.php:247
 msgid "You'll need to <a href='%s'>activate a <strong>BuddyPress-compatible theme</strong></a> to take advantage of all of BuddyPress's features. We've bundled a default theme, but you can always <a href='%s'>install some other compatible themes</a> or <a href='%s'>update your existing WordPress theme</a>."
-msgstr "<strong>O BuddyPress está pronto</strong>. Você precisará <a href='%s'>attivar um tema compatível com o BuddyPress</a> para tirar vantagem de todas as funcionalidades. Nós incluímos um tema padrão, mas você sempre poderá <a href='%s'>instalar outros temas compatíveis</a>."
+msgstr "<strong>O BuddyPress está pronto</strong>. Você precisará <a href='%s'>ativar um tema compatível com o BuddyPress</a> para tirar vantagem de todas as funcionalidades. Nós incluímos um tema padrão, mas você sempre poderá <a href='%s'>instalar outros temas compatíveis</a>."
 
 #: bp-core/admin/bp-core-update.php:833
 msgid "The BuddyPress %1$s is complete, and your site is ready to go!"
-msgstr ""
+msgstr "O BuddyPress %1$s está pronto, e o seu site está pronto para rodar!"
 
 #: bp-core/admin/bp-core-update.php:189
 msgid "BuddyPress %s"
@@ -1742,12 +1742,12 @@ msgstr[1] "%d trackbacks"
 #: bp-themes/bp-default/single.php:36
 msgctxt "Next post link"
 msgid "&rarr;"
-msgstr ""
+msgstr "&rarr;"
 
 #: bp-themes/bp-default/single.php:35
 msgctxt "Previous post link"
 msgid "&larr;"
-msgstr ""
+msgstr "&larr;"
 
 #: bp-core/admin/bp-core-functions.php:327
 msgid "IMPORTANT: <a href=\"http://codex.buddypress.org/buddypress-site-administration/upgrading-buddypress/\">Read this before attempting to update BuddyPress</a>"
@@ -1759,11 +1759,11 @@ msgstr "Perfil de %s"
 
 #: bp-core/admin/bp-core-update.php:1454
 msgid "BuddyPress was successfully installed! Please run the <a href=\"%s\">installation wizard</a>."
-msgstr ""
+msgstr "O BuddyPress foi instalado com sucesso! Por favor vá agora ao <a href=\"%s\">guia de instalação</a>."
 
 #: bp-core/admin/bp-core-update.php:1449
 msgid "BuddyPress has been updated! Please run the <a href=\"%s\">update wizard</a>."
-msgstr ""
+msgstr "O BuddyPress foi atualizado! Por favor vá agora ao <a href=\"%s\">guia de instalação</a>."
 
 #: bp-xprofile/bp-xprofile-admin.php:403
 msgid "(Required)"
@@ -1772,11 +1772,11 @@ msgstr "(Obrigatório)"
 #: bp-xprofile/bp-xprofile-admin.php:103
 #: bp-xprofile/bp-xprofile-admin.php:403
 msgid "(Primary)"
-msgstr ""
+msgstr "(Principal)"
 
 #: bp-core/admin/bp-core-components.php:82
 msgid "Global, personal, and group activity streams with threaded commenting, direct posting, favoriting and @mentions, all with full RSS feed and email notification support."
-msgstr ""
+msgstr "Linhas de atividade globais, pessoais e por grupo com comentários aninhados, postagem direta, marcação de favoritos e @citações, todos com suporte a RSS e notificação por e-mail."
 
 #: bp-core/admin/bp-core-components.php:69
 msgid "Account Settings"
@@ -1784,11 +1784,11 @@ msgstr "Configurações da Conta"
 
 #: bp-core/admin/bp-core-components.php:74
 msgid "Let your users make connections so they can track the activity of others and focus on the people they care about the most."
-msgstr ""
+msgstr "Permitir aos usuários fazerem amizades uns com os outros, e então eles podem acompanhar a atividade das pessoas que eles se importam mais."
 
 #: bp-core/admin/bp-core-components.php:70
 msgid "Allow your users to modify their account and notification settings directly from within their profiles."
-msgstr ""
+msgstr "Permitir aos usuários modificar suas configurações de notificação diretamente em seus perfis."
 
 #: bp-xprofile/bp-xprofile-admin.php:25
 #: bp-xprofile/bp-xprofile-admin.php:74
@@ -1814,7 +1814,7 @@ msgstr "Tópicos Respondidos"
 
 #: bp-themes/bp-default/groups/single/forum/topic.php:9
 msgid "New Reply"
-msgstr "Nova Resposta"
+msgstr "Responder Tópico"
 
 #: bp-themes/bp-default/forums/index.php:100
 msgid "Create New Topic:"
@@ -1882,7 +1882,7 @@ msgstr "Procurar Fóruns..."
 
 #: bp-core/admin/bp-core-update.php:775
 msgid "You are happy with your current theme and plan on changing it later."
-msgstr ""
+msgstr "Você está feliz com o seu tema e planeja mudá-lo depois."
 
 #: bp-members/bp-members-template.php:561
 msgid "Never active"
@@ -1902,11 +1902,11 @@ msgstr "Este email já está em uso!"
 
 #: bp-members/bp-members-functions.php:733
 msgid "<strong>ERROR</strong>: Your account has been marked as a spammer."
-msgstr ""
+msgstr "<strong>ERRO</strong>: Sua conta foi marcada como sendo de um spammer."
 
 #: bp-members/bp-members-signup.php:594
 msgid "<strong>ERROR</strong>: Your account has not been activated. Check your email for the activation link."
-msgstr ""
+msgstr "<strong>ERRO</strong>: Sua conta ainda não foi ativada. Veja o seu e-mail e acesse o link de ativação."
 
 #: bp-core/admin/bp-core-update.php:111
 #: bp-core/admin/bp-core-update.php:243
@@ -1936,11 +1936,11 @@ msgstr "Nome"
 #: bp-core/admin/bp-core-schema.php:210
 msgctxt "First XProfile group name"
 msgid "Base"
-msgstr "Base"
+msgstr "Informações Básicas"
 
 #: bp-forums/bp-forums-template.php:589
 msgid "Group logo for %s"
-msgstr ""
+msgstr "Logomarca do grupo %s"
 
 #: bp-groups/bp-groups-template.php:389
 #: bp-activity/bp-activity-template.php:1006
@@ -2035,7 +2035,7 @@ msgstr "Senha Atual <span>(necessário para atualizar o e-mail ou mudar a senha)
 
 #: bp-themes/bp-default/members/single/settings/general.php:57
 msgid "Password Lost and Found"
-msgstr ""
+msgstr "Senha Perdida e Entrada"
 
 #: bp-themes/bp-default/members/single/settings/general.php:57
 msgid "Lost your password?"
@@ -2047,39 +2047,39 @@ msgstr "Orgulhosamente construído com o <a href=\"%1$s\">WordPress</a> e o <a h
 
 #: bp-themes/bp-default/functions.php:379
 msgid "The sidebar widget area"
-msgstr ""
+msgstr "Área de Widgets Lateral"
 
 #: bp-themes/bp-default/functions.php:423
 msgid "The fourth footer widget area"
-msgstr ""
+msgstr "Quarta Área de Widgets do Rodapé"
 
 #: bp-themes/bp-default/functions.php:390
 msgid "The first footer widget area"
-msgstr ""
+msgstr "Primeira Área de Widgets"
 
 #: bp-themes/bp-default/functions.php:421
 msgid "Fourth Footer Widget Area"
-msgstr ""
+msgstr "Quarta Área de Widgets"
 
 #: bp-themes/bp-default/functions.php:410
 msgid "Third Footer Widget Area"
-msgstr ""
+msgstr "Terceira Área de Widgets"
 
 #: bp-themes/bp-default/functions.php:412
 msgid "The third footer widget area"
-msgstr ""
+msgstr "Terceira Área de Widgets no Rodapé"
 
 #: bp-themes/bp-default/functions.php:399
 msgid "Second Footer Widget Area"
-msgstr ""
+msgstr "Segunda Área de Widgets no Rodapé"
 
 #: bp-themes/bp-default/functions.php:401
 msgid "The second footer widget area"
-msgstr ""
+msgstr "Segunda Área de Widgets"
 
 #: bp-themes/bp-default/functions.php:388
 msgid "First Footer Widget Area"
-msgstr ""
+msgstr "Primeira Área de Widgets no Rodapé"
 
 #: bp-core/bp-core-avatars.php:525
 msgid "Upload failed! Error was: %s"
@@ -2111,7 +2111,7 @@ msgstr "Você tem %d convites para novos grupos"
 
 #: bp-groups/bp-groups-widgets.php:19
 msgid "A dynamic list of recently active, popular, and newest groups"
-msgstr ""
+msgstr "Uma lista dinâmica de grupos mais ativos, populares e novos"
 
 #: bp-themes/bp-default/activity/post-form.php:25
 msgid "What's new, %s?"
@@ -2120,12 +2120,12 @@ msgstr "O que há de novo %s?"
 #: bp-groups/bp-groups-screens.php:358
 #: bp-forums/bp-forums-screens.php:38
 msgid "Forum posts cannot be empty. Please enter some text."
-msgstr ""
+msgstr "Posts não podem ser vazios. Coloque algum conteúdo."
 
 #: bp-groups/bp-groups-screens.php:356
 #: bp-forums/bp-forums-screens.php:36
 msgid "Please provide a title for your forum topic."
-msgstr ""
+msgstr "Forneça um título para o seu tópico."
 
 #: bp-themes/bp-default/functions.php:81
 msgid "Primary Navigation"
@@ -2163,7 +2163,7 @@ msgstr "Promover este membro"
 #: bp-forums/bp-forums-screens.php:56
 #: bp-forums/bp-forums-screens.php:61
 msgid "Please pick the group forum where you would like to post this topic."
-msgstr ""
+msgstr "Escolha o grupo em que você quer postar este tópico."
 
 #: bp-core/bp-core-template.php:201
 msgid "%1$s at %2$s"
@@ -2172,7 +2172,7 @@ msgstr "%1$s - %2$s"
 #: bp-core/bp-core-functions.php:467
 msgctxt "Separator in time since"
 msgid ","
-msgstr ""
+msgstr ","
 
 #: bp-forums/bp-forums-template.php:1295
 msgid "Viewing post %1$s to %2$s (%3$s total posts)"
@@ -2561,7 +2561,7 @@ msgstr "Criar um grupo"
 #: bp-xprofile/bp-xprofile-classes.php:282
 #: bp-xprofile/bp-xprofile-classes.php:702
 msgid "Fields marked * are required"
-msgstr ""
+msgstr "Campos marcados com * são obrigatórios"
 
 #: bp-xprofile/bp-xprofile-classes.php:293
 msgid "Field Group Title"
@@ -2592,20 +2592,20 @@ msgstr "Páginas"
 #: bp-core/admin/bp-core-update.php:115
 #: bp-core/admin/bp-core-update.php:255
 msgid "Components"
-msgstr "Configuração do componente"
+msgstr "Principal"
 
 #: bp-core/admin/bp-core-update.php:638
 msgid "Month and name"
-msgstr ""
+msgstr "Mês e nome"
 
 #: bp-core/admin/bp-core-update.php:642
 msgid "Numeric"
-msgstr ""
+msgstr "Numérico"
 
 #: bp-core/admin/bp-core-update.php:181
 #: bp-core/admin/bp-core-update.php:1348
 msgid "Setup"
-msgstr ""
+msgstr "Configurações"
 
 #: bp-core/admin/bp-core-update.php:371
 #: bp-core/admin/bp-core-update.php:490
@@ -2627,11 +2627,11 @@ msgstr "Selecionar:"
 #: bp-core/admin/bp-core-update.php:578
 #: bp-core/admin/bp-core-update.php:592
 msgid "Use an existing page:"
-msgstr ""
+msgstr "Usar uma página existente:"
 
 #: bp-core/admin/bp-core-update.php:485
 msgid "Displays member profiles, and a directory of all site members."
-msgstr ""
+msgstr "Mostra os perfis dos membros e um diretório com todos os membros do site."
 
 #: bp-core/admin/bp-core-update.php:369
 #: bp-core/admin/bp-core-update.php:488
@@ -2642,7 +2642,7 @@ msgstr ""
 #: bp-core/admin/bp-core-update.php:575
 #: bp-core/admin/bp-core-update.php:589
 msgid "Automatically create a page at:"
-msgstr ""
+msgstr "Criar uma página automaticamente em:"
 
 #: bp-core/admin/bp-core-update.php:634
 msgid "Day and name"
@@ -2650,7 +2650,7 @@ msgstr "Nome do banco de dados"
 
 #: bp-core/admin/bp-core-update.php:572
 msgid "Displays a site registration page where users can create new accounts."
-msgstr ""
+msgstr "Mostra uma página de registro em que os usuários podem criar novas contas."
 
 #: bp-core/admin/bp-core-slugs.php:132
 #: bp-core/admin/bp-core-functions.php:277
@@ -2661,7 +2661,7 @@ msgstr "Registrar-se"
 
 #: bp-core/admin/bp-core-update.php:586
 msgid "The page users will visit to activate their account once they have registered."
-msgstr ""
+msgstr "A página que o usuário deve visitar para ativar a conta após o registro."
 
 #: bp-core/admin/bp-core-update.php:444
 msgid "members"
@@ -2686,12 +2686,12 @@ msgstr "Desativar"
 #: bp-core/admin/bp-core-update.php:345
 #: bp-core/admin/bp-core-update.php:478
 msgid "Please Note:"
-msgstr ""
+msgstr "Atenção:"
 
 #: bp-core/admin/bp-core-update.php:345
 #: bp-core/admin/bp-core-update.php:478
 msgid "If you have manually added BuddyPress navigation links in your theme you may need to remove these from your header.php to avoid duplicate links."
-msgstr ""
+msgstr "Se você adicionou links do BuddyPress manualmente no seu tema, então você deve remover isto do header.php para evitar links duplicados."
 
 #: bp-core/admin/bp-core-components.php:73
 #: bp-friends/bp-friends-loader.php:24
@@ -2705,19 +2705,19 @@ msgstr "Discussão"
 
 #: bp-core/admin/bp-core-update.php:501
 msgid "Displays the activity for the entire site, a member's friends, groups and @mentions."
-msgstr ""
+msgstr "Mostra uma listagem de atividade de todo o site, os amigos de um membro, grupos e @citações."
 
 #: bp-core/admin/bp-core-update.php:519
 msgid "Displays individual groups as well as a directory of groups."
-msgstr ""
+msgstr "Mostra grupos individuais assim como uma listagem de grupos."
 
 #: bp-core/admin/bp-core-update.php:1294
 msgid "Installation was successful. The available options have now been updated, please continue with your selection."
-msgstr ""
+msgstr "A instalação foi um sucesso. As opções disponíveis foram agora atualizadas, por favor continue selecionando."
 
 #: bp-core/admin/bp-core-update.php:1048
 msgid "Paste all these rules into a new <code>.htaccess</code> file in the root of your WordPress installation and save the file. Once you're done, please hit the \"Save and Next\" button to continue."
-msgstr ""
+msgstr "Cole todas estas regras em um novo arquivo <code>.htaccess</code> na raiz da sua instalação do WordPress. Quando você fizer isso, por favor clique em \"Salvar e Continuar\"."
 
 #: bp-core/admin/bp-core-update.php:1036
 msgid "If your <code>.htaccess</code> file were <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">writable</a>, we could do this automatically, but it isn&#8217;t so these are the mod_rewrite rules you should have in your <code>.htaccess</code> file. Click in the field and press <kbd>CTRL + a</kbd> to select all."
@@ -2737,7 +2737,7 @@ msgstr "Ocorreu um problema ao ativar esse aviso."
 
 #: bp-core/admin/bp-core-update.php:831
 msgid "setup"
-msgstr ""
+msgstr "configuração"
 
 #: bp-core/admin/bp-core-update.php:763
 msgid "Plugin Installed"
@@ -2745,7 +2745,7 @@ msgstr "Instalado"
 
 #: bp-core/admin/bp-core-update.php:762
 msgid "Choose this option (go to Appearance &rarr; BP Compatibility after setup is complete)"
-msgstr ""
+msgstr "Escolha esta opção (vá em Aparência &rarr; Compatibilidade com o BuddyPress depois que a configuração for completada)"
 
 #: bp-members/bp-members-signup.php:322
 msgid "Sorry, usernames may not contain the character \"_\"!"
@@ -2961,7 +2961,7 @@ msgstr "Enviar convites"
 #: bp-groups/bp-groups-buddybar.php:16
 #: bp-members/bp-members-buddybar.php:109
 msgid "Admin Options"
-msgstr "Opções de administração"
+msgstr "Opções de Administração"
 
 #: bp-groups/bp-groups-adminbar.php:101
 #: bp-groups/bp-groups-buddybar.php:43
@@ -3265,7 +3265,7 @@ msgstr "Você tem um convite para o grupo: %s"
 #: bp-groups/bp-groups-classes.php:780
 #: bp-groups/bp-groups-functions.php:115
 msgid "Group Admin"
-msgstr "Administrador do grupo"
+msgstr "Administrador do Grupo"
 
 #: bp-groups/bp-groups-functions.php:272
 msgid "As the only Admin, you cannot leave the group."
@@ -3342,7 +3342,7 @@ msgstr "Privado"
 
 #: bp-groups/bp-groups-template.php:577
 msgid "No Admins"
-msgstr "Sem administradores"
+msgstr "Sem Administradores"
 
 #: bp-groups/bp-groups-template.php:604
 msgid "No Mods"
@@ -3376,7 +3376,7 @@ msgstr "Este grupo não possui administradores"
 #: bp-themes/bp-default/groups/single/admin.php:216
 #: bp-themes/bp-default/groups/single/admin.php:272
 msgid "Promote to Admin"
-msgstr "Promover a administrador"
+msgstr "Promover a Administrador"
 
 #: bp-groups/bp-groups-template.php:1137
 msgid "This group has no moderators"
@@ -4249,7 +4249,7 @@ msgstr "Você automaticamente entrará neste grupo ao responder a este tópico."
 
 #: bp-themes/bp-default/groups/single/forum/topic.php:139
 msgid "Add a reply:"
-msgstr "Adicionar uma resposta:"
+msgstr "Responder tópico:"
 
 #: bp-themes/bp-default/groups/single/forum/topic.php:144
 msgid "Post Reply"
@@ -4265,7 +4265,7 @@ msgstr "Não há posts para este tópico."
 
 #: bp-themes/bp-default/groups/single/group-header.php:11
 msgid "Group Admins"
-msgstr "Administradores do grupo"
+msgstr "Administradores do Grupo"
 
 #: bp-themes/bp-default/groups/single/group-header.php:20
 msgid "Group Mods"
@@ -4821,7 +4821,7 @@ msgstr "Salvar configurações"
 #: bp-core/admin/bp-core-components.php:81
 #: bp-activity/bp-activity-loader.php:30
 msgid "Activity Streams"
-msgstr "Fluxos de atividade"
+msgstr "Listagem de Atualização"
 
 #: bp-core/admin/bp-core-components.php:77
 msgid "Private Messaging"
@@ -4880,7 +4880,7 @@ msgstr "Minhas atividades"
 
 #: bp-activity/bp-activity-functions.php:151
 msgid "@%s Mentions"
-msgstr "@%s Menções"
+msgstr "@%s Citações"
 
 #: bp-activity/bp-activity-loader.php:163
 #: bp-activity/bp-activity-loader.php:263
@@ -5587,7 +5587,7 @@ msgstr "Meus Grupos - Atividade Pública"
 #: bp-activity/bp-activity-loader.php:232
 #: bp-activity/feeds/bp-activity-mentions-feed.php:28
 msgid "Mentions"
-msgstr "Menções"
+msgstr "Citações"
 
 #: bp-activity/feeds/bp-activity-group-feed.php:31
 msgid "%s - Group Activity Feed"
@@ -5808,7 +5808,7 @@ msgstr "Email"
 
 #: bp-groups/bp-groups-loader.php:380
 msgid "Admin"
-msgstr "Admin"
+msgstr "Administração"
 
 #: bp-groups/bp-groups-template.php:805
 msgid "%d topics"
